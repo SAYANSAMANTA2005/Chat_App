@@ -62,9 +62,11 @@ A real-time chat application built with React, Node.js, Socket.IO, and MongoDB.
 - MongoDB with Mongoose
 - CORS
 
-## 🌐 Deployment
+## 🌐 Deployment & Guides
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions to Render with MongoDB Atlas.
+- **[Local Run Guide](RUN_LOCALLY.md)**: Detailed instructions for local setup and terminal commands.
+- **[MongoDB Connection Guide](MONGODB_CONNECTION.md)**: How to set up your connection string.
+- **[Deployment Guide](DEPLOYMENT.md)**: How to deploy to Render with MongoDB Atlas.
 
 ## 📝 Environment Variables
 
@@ -90,7 +92,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile]
+Sayan Samanta - [https://github.com/SAYANSAMANTA2005]
 
 ---
 
